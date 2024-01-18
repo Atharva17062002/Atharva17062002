@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Udavant</h1>
 <h3 align="center">Enthusiastic and self-motivated Application Developer, a mature team worker and adaptable to all challenging situations. Hardworking and honest toward the team's success. Intelligible understanding of application development. Committed to delivering attainable solutions to clients.</h3>
 
-- 🌱 I’m currently learning **React Native, Angular.**
-
 - 👯 I’m looking to collaborate on **Flutter project.**
 
 - 🤝 I’m looking for help with **Backend.**
